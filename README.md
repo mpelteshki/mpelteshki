@@ -1,27 +1,13 @@
-# Martin Pelteshki
+👋 Hi, I’m Martin
 
-Cloud & quantitative developer focused on **trading systems**, **automation**, and **production infrastructure**.
+I build tools and systems around **automation**, **trading**, and **cloud infrastructure**.
 
-## What I work on
-- 📈 Quantitative trading & backtesting systems (Python)  
-- ☁️ Cloud-native deployment (Docker, CI/CD, infra tooling)  
-- 🧰 Developer tools & automation (CLI, shell, pipelines)
+Most of my public work lives here:
 
-## Selected projects (public)
-- **Azule** — widely-used shell tooling & automation framework  
-- **lumibot** — trading & backtesting framework (Python)  
-- **ib-gateway-docker** — containerized Interactive Brokers gateway  
-- **ibkr-bot-deploy** — deployment tooling for trading bots  
+- **Azule** — shell tooling & automation  
+- **lumibot** — trading & backtesting framework  
 
-## Production systems (private)
-- **LOTi** — real-time trading & orchestration platform (TypeScript/Python)  
-- **Freshly** — cloud-based application with production auth, APIs, and CI  
-- **bot-manager** — Python services for managing live trading processes  
+A lot of what I work on day-to-day is **production systems** and **private repos**  
+(cloud services, trading infra, orchestration).
 
-> Private repositories reflect production systems and client work.
-
-## Stack
-Python · TypeScript · Docker · Linux · Cloud · Trading APIs
-
----
-Building systems that actually run — not just notebooks.
+Feel free to check out the pinned projects below — code > words.
