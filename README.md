@@ -1,16 +1,27 @@
-## Hi there 👋
+# Martin Pelteshki
 
-<!--
-**mpelteshki/mpelteshki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & quantitative developer focused on **trading systems**, **automation**, and **production infrastructure**.
 
-Here are some ideas to get you started:
+## What I work on
+- 📈 Quantitative trading & backtesting systems (Python)  
+- ☁️ Cloud-native deployment (Docker, CI/CD, infra tooling)  
+- 🧰 Developer tools & automation (CLI, shell, pipelines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects (public)
+- **Azule** — widely-used shell tooling & automation framework  
+- **lumibot** — trading & backtesting framework (Python)  
+- **ib-gateway-docker** — containerized Interactive Brokers gateway  
+- **ibkr-bot-deploy** — deployment tooling for trading bots  
+
+## Production systems (private)
+- **LOTi** — real-time trading & orchestration platform (TypeScript/Python)  
+- **Freshly** — cloud-based application with production auth, APIs, and CI  
+- **bot-manager** — Python services for managing live trading processes  
+
+> Private repositories reflect production systems and client work.
+
+## Stack
+Python · TypeScript · Docker · Linux · Cloud · Trading APIs
+
+---
+Building systems that actually run — not just notebooks.
