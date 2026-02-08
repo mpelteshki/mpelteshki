@@ -1,4 +1,4 @@
-👋 Hi, I’m Martin
+Hi, I’m Martin
 
 I build tools around automation, finance, and cloud infrastructure.
 
