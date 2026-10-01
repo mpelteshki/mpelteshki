@@ -1,3 +1,3 @@
 Hi!
 
-[Website](https://martinpelteshki.com/)
+About: https://martinpelteshki.com/
